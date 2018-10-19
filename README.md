@@ -3,8 +3,9 @@
 ## Overview
 
 This project involves building a website using JavaScript, HTML, and CSS with UFO sightings data sets that will allow users to interact with data for specific information.
+
 final webpage looks like :
-![Webpage.png](Images/Capture.png)
+![Capture.png](Images/Capture.png)
 
 ### Dataset
 
